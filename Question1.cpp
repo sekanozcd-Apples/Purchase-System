@@ -1,6 +1,4 @@
 /*
-FileName: Question1.cpp
-Programmer:Zwelibanzi Charles Diale Sekano, EDUV4789671
 Description: This program Displays the gadget catalogue and prices, calcalculates the subtotal, discount, and final amount, and displays the results.
 */
 #include <iostream> //for input and output
@@ -81,4 +79,5 @@ int main() {
     std::cout << "Final Total: R" << std::fixed << std::setprecision(2) << finalTotal << std::endl;
 
     return 0; // end of the program
+
 }
